@@ -1,4 +1,5 @@
 Todo App
+
 A simple and efficient Todo web application built using React, Firebase, and Tailwind CSS. This app allows users to manage their daily tasks by adding, editing, and deleting todos.
 
 Features
