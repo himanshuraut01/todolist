@@ -9,7 +9,7 @@ CRUD Operations: Add, edit, delete, and mark todos as completed.
 Responsive Design: Fully responsive design with Tailwind CSS.
 
 Demo
-Live Demo - Check out the live demo of the Todo App.
+Live Demo - [Check out the live demo of the Todo App.](https://todolist-three-gules-47.vercel.app/)
 
 Technologies Used
 React: JavaScript library for building user interfaces.
